@@ -22,6 +22,6 @@ void main (){
   Vida (HP) :$hp
   Estatus de Vida : $isAlive
   Habilidades:$abilities
-  Imagenes:$sprites
+  Imagenes:$sprites;
   ----);
 }
