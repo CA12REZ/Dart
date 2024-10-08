@@ -16,11 +16,6 @@ double chargePhone( EnergyPlant plant ) {
     
   return plant.energyLeft - 10;
 }
-
-
-
-
-
 enum PlantType { nuclear, wind, water }
 
 
