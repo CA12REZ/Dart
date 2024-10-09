@@ -27,3 +27,4 @@ Proyecto de clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 
 ## AUTOR 
 Elaborado por: Jorge Cazarez Cruz [@CA12REZ]()
+https://padlet.com/marcoramirez1/pr-cticas-10b-dmi-crdqziwhyss8tqs2
