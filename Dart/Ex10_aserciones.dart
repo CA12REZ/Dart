@@ -1,8 +1,10 @@
 void main(){
-  final mySquare = Square(side:10);
-  mySquare.side = -5;
+  final mySquare = Square(side:-10);
+
+
   print("El area es igual a: ${mySquare.area}");
 }
+
 class Square {
   double _side;
 
@@ -13,11 +15,13 @@ class Square {
   double get area {
       return _side * _side;
   }
+
   set side(double value){
     print("setting new value $value");
       if (value < 0) throw 'Value must be >=0';
     _side = value;
   }
+
   double calculateArea() {
   return _side * _side;
   }
