@@ -22,10 +22,10 @@ Proyecto de clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |:ledger:13|Clases_Abstractas|11|:smile: Finalizada|
 |:ledger:14|Mixins|11|:smile: Finalizada|
 |:ledger:15|Futures|7|:smile: Finalizada|
-|:ledger:16|Async_await|Por definir |:smile: Activa|
-|:ledger:17|Try_catch_on_finally|Por definir |:smile: Activa|
-|:ledger:18|Streams|Por definir|:smile: Activa|
-|:ledger:19|Stream_await|Por definir |:smile: Activa|
+|:ledger:16|Async_await|5 |:smile: Finalizada|
+|:ledger:17|Try_catch_on_finally|6|:smile: Finalizada|
+|:ledger:18|Streams|6|:smile: Finalizada|
+|:ledger:19|Stream_await|4|:smile: Finalizada|
 ### LISTA DE HERRAMIENTAS
 ![DArt](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
